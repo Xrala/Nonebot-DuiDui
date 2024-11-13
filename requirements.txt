@@ -1,0 +1,5 @@
+aiohttp
+aiosqlite
+nonebot2
+nonebot-adapter-onebot
+loguru
