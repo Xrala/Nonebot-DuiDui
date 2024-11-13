@@ -2,7 +2,7 @@
 
 堆堆的配置组成，**推荐Linux桌面环境配置**
 
-基于**Nonebot2**框架搓的插件，**仅针对NTQQ的LLOnebot使用反向ws连接适配**,个人使用环境是Linux Mint桌面版Linux环境
+基于**Nonebot2**框架搓的插件，**仅针对NTQQ的LLOnebot使用反向ws连接适配**,个人使用环境是Linux Mint桌面版Linux环境+桌面版LinuxNTQQ+LLOnebot
 
 **功能概览**
 
